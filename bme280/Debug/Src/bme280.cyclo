@@ -1,0 +1,9 @@
+../Src/bme280.c:56:13:BME280_WriteReg	1
+../Src/bme280.c:65:16:BME280_ReadReg	1
+../Src/bme280.c:82:13:BME280_ReadMulti	2
+../Src/bme280.c:102:6:BME280_ReadCalibrationData	1
+../Src/bme280.c:141:9:BME280_Compensate_Temp	1
+../Src/bme280.c:155:10:BME280_Compensate_Pressure	2
+../Src/bme280.c:179:10:BME280_Compensate_Humidity	1
+../Src/bme280.c:205:5:BME280_Init	3
+../Src/bme280.c:232:6:BME280_ReadAll	1

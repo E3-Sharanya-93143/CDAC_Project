@@ -1,0 +1,5 @@
+../Src/main.c:11:6:Relay_Init	4	static
+../Src/main.c:21:6:Relay_On	4	static
+../Src/main.c:22:6:Relay_Off	4	static
+../Src/main.c:24:6:delay	16	static
+../Src/main.c:26:5:main	104	static
