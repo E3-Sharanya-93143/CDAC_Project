@@ -1,0 +1,4 @@
+../Src/adc.c:8:6:AdcInit	4	static
+../Src/adc.c:39:10:AdcReadChannel	16	static
+../Src/adc.c:50:5:Moisture_Read	16	static
+../Src/adc.c:63:10:MQ135_Read	8	static
