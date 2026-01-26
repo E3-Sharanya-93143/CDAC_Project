@@ -46,11 +46,13 @@ void ThingSpeak_MQTTSend(float, float, uint16_t, int, uint16_t);
 
 int main(void)
 {
+
     float temp, hum;
     uint16_t lux, gas;
     int soil;
 
     // Initialize UARTs
+    TimerPwmInit();
     UartInit(UART_PC, BAUD_115200);   // For debugging
     UartInit(UART_ESP, BAUD_9600);  // For ESP8266
     AdcInit();
