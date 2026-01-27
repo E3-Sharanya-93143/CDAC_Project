@@ -1,0 +1,4 @@
+../Src/adc.c:8:6:AdcInit	1
+../Src/adc.c:39:10:AdcReadChannel	2
+../Src/adc.c:51:6:MoistureControl	4
+../Src/adc.c:77:6:MQ135Read	1
