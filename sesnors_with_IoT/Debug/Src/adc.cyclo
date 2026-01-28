@@ -1,0 +1,4 @@
+../Src/adc.c:11:6:AdcInit	1
+../Src/adc.c:37:10:AdcReadChannel	2
+../Src/adc.c:50:9:SoilMoistureControl	5
+../Src/adc.c:78:9:MQ135_GetValue	1
